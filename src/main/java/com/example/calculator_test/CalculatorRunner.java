@@ -18,8 +18,8 @@ public class CalculatorRunner implements CommandLineRunner {
 
         while (true) { 
             try {
-                int a = (int) (Math.random() * 10); 
-                int b = (int) (Math.random() * 10); 
+                int a = (int) (Math.random() * 100); 
+                int b = (int) (Math.random() * 100); 
                 System.out.println("Adding " + a + " + " + b + " = " + calculatorService.add(a, b));
                 System.out.println("Subtracting " + a + " - " + b + " = " + calculatorService.subt(a, b));
                 System.out.println("Multiplying " + a + " * " + b + " = " + calculatorService.mul(a, b));
