@@ -16,14 +16,14 @@ class CalculatorServiceMathTest {
 
     @Test
     void testAdd() {
-        assertEquals(5, calc.add(2, 3));
+        assertEquals(4, calc.add(1, 3));
         assertEquals(-1, calc.add(-2, 1));
         assertEquals(0, calc.add(0, 0));
     }
 
     @Test
     void testSubt() {
-        assertEquals(1, calc.subt(3, 2));
+        assertEquals(22, calc.subt(42, 20));
         assertEquals(-3, calc.subt(-2, 1));
         assertEquals(0, calc.subt(0, 0));
     }
