@@ -42,7 +42,13 @@ Tick this checkbox to ensure Jenkins knows to poll the github repository for pus
 
 ![Build](<assets/jenkins-asset (8).png>)
 
-# Step 6: Enjoy the taste of success
+#### Build:
+
+Use the `maven top level goals` instead of a `bat` to feel cool!
+
+![Build](<assets/jenkins-asset (13).png>)
+
+# Step 7: Enjoy the taste of success
 
 ![Success!](<assets/jenkins-asset (12).png>)
 
