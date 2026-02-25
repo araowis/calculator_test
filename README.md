@@ -48,7 +48,7 @@ Use the `maven top level goals` instead of a `bat` to feel cool!
 
 ![Build](<assets/jenkins-asset (13).png>)
 
-# Step 7: Enjoy the taste of success
+# Step 6: Enjoy the taste of success
 
 ![Success!](<assets/jenkins-asset (12).png>)
 
